@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://unpkg.com/vue"></script>
+    <title>Vue JS Tutorial</title>
+</head>
+<body>
+    
+    <div id="app">
+        <div v-bind:title="randomNumber" v-if="shown">Hover over me for your random number</div>
+    </div>
+
+    <script>
+    
+    new Vue({
+
+        el:'#app',
+        data:{
+            randomNumber:Math.floor(Math.random()*50)+1,
+            shown:true
+            
+       }
+
+    });
+
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://unpkg.com/vue"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.css">
+    <title>Vue JS Tutorial</title>
+</head>
+<body>
+    
+
+    <div id="app">
+       
+        <div class="subtitle is-3">Count: {{count}}</div>
+
+        <button class="button is-primary" @click="increment">Increment by 1</button> 
+
+    </div>
+
+
+    <script>
+    
+        new Vue({
+    
+            el:'#app',
+            data:{
+                count:0
+            },
+            methods:{
+                increment(){
+                    this.count++;
+                }
+            },
+            updated() {
+                console.log('This Count ',this.count);
+            },
+    
+        });
+    
+        </script>
+
+</body>
+</html>

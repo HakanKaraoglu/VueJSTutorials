@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://unpkg.com/vue"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.css">
+    <title>Vue JS Tutorial</title>
+</head>
+<body>
+    
+
+    <div id="app">
+       
+    <span>Change the Text</span>
+    <input v-model="text" placeholder="Text ...">
+    
+    <div>LowerCased : {{lowerText}}</div>
+
+    </div>
+
+
+    <script>
+    
+        new Vue({
+    
+            el:'#app',
+            data:{
+                text:''
+            },
+            computed:{
+                lowerText(){
+                    return this.text.toLowerCase()
+                }
+            }
+    
+        });
+    
+        </script>
+
+</body>
+</html>

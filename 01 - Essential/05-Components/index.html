@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://unpkg.com/vue"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.css">
+    <title>Vue JS Tutorial</title>
+</head>
+<body>
+    
+
+    <div id="app">
+       
+    <counter v-bind:add-Number="1" v-bind:remove-Number="1" ></counter>
+
+    </div>
+
+    <script>
+    
+    var counter=Vue.component('counter',{
+        template:
+        `<div>
+        <div class="subtitle is-3">Count: {{this.count}}</div>
+        <button class="button is-primary" @click="increment">Increment by {{this.addNumber}}</button> 
+        <button class="button is-danger" @click="reduction">Reduction by {{this.removeNumber}}</button> 
+         </div>`,
+
+         props:{
+             addNumber:{
+                 type:Number,
+                 default:1
+             },
+             removeNumber:{
+                 type:Number,
+                 default:1
+             }
+         },
+
+         data(){
+             return{count:0}
+         },
+         methods:{
+             increment(){
+                 this.count+=this.addNumber;
+             },
+             reduction(){
+                 this.count-=this.removeNumber;
+             }
+         },
+         updated() {
+             if(this.count==0){
+                 alert('Hello World')
+             }
+         },
+    })
+
+    
+    </script>
+
+    <script>
+    
+        new Vue({
+    
+            el:'#app',
+            components:{
+                counter
+            }   
+        });
+    
+        </script>
+
+</body>
+</html>

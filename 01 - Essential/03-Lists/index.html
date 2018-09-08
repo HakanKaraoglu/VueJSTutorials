@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://unpkg.com/vue"></script>
+    <title>Vue JS Tutorial</title>
+</head>
+<body>
+    
+
+    <div id="app">
+        <div>
+            <p>Case 1</p>
+            <ul>
+                <li v-for="color in colors" >{{color}}</li>
+            </ul>
+        </div>
+
+        <div>
+            <p>Case 2</p>
+            <ul>
+                <li v-for="ccolor in caseColors" v-if="ccolor.primary" >{{ccolor.text}}</li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+    
+        new Vue({
+    
+            el:'#app',
+            data:{
+                colors:['red','green','blue','yellow','purple','orange','aqua'],
+                caseColors:[
+                    { text:'Red', primary:true },
+                    { text:'Green', primary:false },
+                    { text:'Blue', primary:true },
+                    { text:'Yellow', primary:false },
+                    { text:'Purple', primary:true },
+                    { text:'Orange', primary:false },
+                    { text:'Aqua', primary:true }
+                ]
+                
+           }
+    
+        });
+    
+        </script>
+
+</body>
+</html>
