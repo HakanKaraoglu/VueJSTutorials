@@ -1,0 +1,2786 @@
+[{
+        "id": 1,
+        "name": "Bulbasaur",
+        "weight": 6.9,
+        "height": 0.7,
+        "url": "images/01-bulbasaur.png",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "ability": {
+            "hp": 45,
+            "attack": 49,
+            "defense": 49,
+            "speed": 45,
+            "spDefense": 65,
+            "spAttack": 65
+        }
+    },
+    {
+        "id": 2,
+        "name": "Ivysaur",
+        "weight": 13,
+        "height": 1,
+        "url": "images/02-ivysaur.png",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "ability": {
+            "hp": 60,
+            "attack": 62,
+            "defense": 63,
+            "speed": 60,
+            "spDefense": 80,
+            "spAttack": 80
+        }
+    },
+    {
+        "id": 3,
+        "name": "Venusaur",
+        "weight": 100,
+        "height": 2,
+        "url": "images/03-venusaur.png",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "ability": {
+            "hp": 80,
+            "attack": 82,
+            "defense": 83,
+            "speed": 80,
+            "spDefense": 100,
+            "spAttack": 100
+        }
+    },
+    {
+        "id": 4,
+        "name": "Charmander",
+        "weight": 8.5,
+        "height": 0.6,
+        "url": "images/04-charmander.png",
+        "type": [
+            "Fire"
+        ],
+        "ability": {
+            "hp": 39,
+            "attack": 52,
+            "defense": 43,
+            "speed": 65,
+            "spDefense": 60,
+            "spAttack": 50
+        }
+    },
+    {
+        "id": 5,
+        "name": "Charmeleon",
+        "weight": 19,
+        "height": 1.1,
+        "url": "images/05-charmeleon.png",
+        "type": [
+            "Fire"
+        ],
+        "ability": {
+            "hp": 58,
+            "attack": 64,
+            "defense": 58,
+            "speed": 80,
+            "spDefense": 80,
+            "spAttack": 65
+        }
+    },
+    {
+        "id": 6,
+        "name": "Charizard",
+        "weight": 90.5,
+        "height": 1.7,
+        "url": "images/06-charizard.png",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "ability": {
+            "hp": 78,
+            "attack": 84,
+            "defense": 78,
+            "speed": 100,
+            "spDefense": 109,
+            "spAttack": 85
+        }
+    },
+    {
+        "id": 7,
+        "name": "Squirtle",
+        "weight": 9,
+        "height": 0.5,
+        "url": "images/07-squirtle.png",
+        "type": [
+            "Water"
+        ],
+        "ability": {
+            "hp": 44,
+            "attack": 48,
+            "defense": 65,
+            "speed": 43,
+            "spDefense": 50,
+            "spAttack": 64
+        }
+    },
+    {
+        "id": 8,
+        "name": "Wartortle",
+        "weight": 22.5,
+        "height": 1,
+        "url": "images/08-wartortle.png",
+        "type": [
+            "Water"
+        ],
+        "ability": {
+            "hp": 59,
+            "attack": 63,
+            "defense": 80,
+            "speed": 58,
+            "spDefense": 65,
+            "spAttack": 80
+        }
+    },
+    {
+        "id": 9,
+        "name": "Blastoise",
+        "weight": 85.5,
+        "height": 1.6,
+        "url": "images/09-blastoise.png",
+        "type": [
+            "Water"
+        ],
+        "ability": {
+            "hp": 79,
+            "attack": 83,
+            "defense": 100,
+            "speed": 78,
+            "spDefense": 85,
+            "spAttack": 105
+        }
+    },
+    {
+        "id": 10,
+        "name": "Caterpie",
+        "weight": 2.9,
+        "height": 0.3,
+        "url": "images/10-caterpie.png",
+        "type": [
+            "Bug"
+        ],
+        "ability": {
+            "hp": 45,
+            "attack": 30,
+            "defense": 35,
+            "speed": 45,
+            "spDefense": 20,
+            "spAttack": 20
+        }
+    },
+    {
+        "id": 11,
+        "name": "Metapod",
+        "weight": 9.9,
+        "height": 0.7,
+        "url": "images/11-metapod.png",
+        "type": [
+            "Bug"
+        ],
+        "ability": {
+            "hp": 50,
+            "attack": 20,
+            "defense": 55,
+            "speed": 30,
+            "spDefense": 25,
+            "spAttack": 25
+        }
+    },
+    {
+        "id": 12,
+        "name": "Butterfree",
+        "weight": 32,
+        "height": 1.1,
+        "url": "images/12-butterfree.png",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "ability": {
+            "hp": 60,
+            "attack": 45,
+            "defense": 50,
+            "speed": 70,
+            "spDefense": 90,
+            "spAttack": 80
+        }
+    },
+    {
+        "id": 13,
+        "name": "Weedle",
+        "weight": 3.2,
+        "height": 0.3,
+        "url": "images/13-weedle.png",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "ability": {
+            "hp": 40,
+            "attack": 35,
+            "defense": 30,
+            "speed": 50,
+            "spDefense": 20,
+            "spAttack": 20
+        }
+    },
+    {
+        "id": 14,
+        "name": "Kakuna",
+        "weight": 10,
+        "height": 0.6,
+        "url": "images/14-kakuna.png",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "ability": {
+            "hp": 45,
+            "attack": 25,
+            "defense": 50,
+            "speed": 35,
+            "spDefense": 25,
+            "spAttack": 25
+        }
+    },
+    {
+        "id": 15,
+        "name": "Beedrill",
+        "weight": 29.5,
+        "height": 1,
+        "url": "images/15-beedrill.png",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "ability": {
+            "hp": 65,
+            "attack": 90,
+            "defense": 40,
+            "speed": 75,
+            "spDefense": 45,
+            "spAttack": 80
+        }
+    },
+    {
+        "id": 16,
+        "name": "Pidgey",
+        "weight": 1.8,
+        "height": 0.3,
+        "url": "images/16-pidgey.png",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "ability": {
+            "hp": 40,
+            "attack": 45,
+            "defense": 40,
+            "speed": 56,
+            "spDefense": 35,
+            "spAttack": 35
+        }
+    },
+    {
+        "id": 17,
+        "name": "Pidgeotto",
+        "weight": 30,
+        "height": 1.1,
+        "url": "images/17-pidgeotto.png",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "ability": {
+            "hp": 63,
+            "attack": 60,
+            "defense": 55,
+            "speed": 71,
+            "spDefense": 50,
+            "spAttack": 50
+        }
+    },
+    {
+        "id": 18,
+        "name": "Pidgeot",
+        "weight": 39.5,
+        "height": 1.5,
+        "url": "images/18-pidgeot.png",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "ability": {
+            "hp": 83,
+            "attack": 80,
+            "defense": 75,
+            "speed": 101,
+            "spDefense": 70,
+            "spAttack": 70
+        }
+    },
+    {
+        "id": 19,
+        "name": "Rattata",
+        "weight": 3.5,
+        "height": 0.3,
+        "url": "images/19-rattata.png",
+        "type": [
+            "Normal"
+        ],
+        "ability": {
+            "hp": 30,
+            "attack": 56,
+            "defense": 35,
+            "speed": 72,
+            "spDefense": 25,
+            "spAttack": 35
+        }
+    },
+    {
+        "id": 20,
+        "name": "Raticate",
+        "weight": 18.5,
+        "height": 0.7,
+        "url": "images/20-raticate.png",
+        "type": [
+            "Normal"
+        ],
+        "ability": {
+            "hp": 55,
+            "attack": 81,
+            "defense": 60,
+            "speed": 97,
+            "spDefense": 50,
+            "spAttack": 70
+        }
+    },
+    {
+        "id": 21,
+        "name": "Spearow",
+        "weight": 2,
+        "height": 0.3,
+        "url": "images/21-spearow.png",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "ability": {
+            "hp": 40,
+            "attack": 60,
+            "defense": 30,
+            "speed": 70,
+            "spDefense": 31,
+            "spAttack": 31
+        }
+    },
+    {
+        "id": 22,
+        "name": "Fearow",
+        "weight": 38,
+        "height": 1.2,
+        "url": "images/22-fearow.png",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "ability": {
+            "hp": 65,
+            "attack": 90,
+            "defense": 65,
+            "speed": 100,
+            "spDefense": 61,
+            "spAttack": 61
+        }
+    },
+    {
+        "id": 23,
+        "name": "Ekans",
+        "weight": 6.9,
+        "height": 2,
+        "url": "images/23-ekans.png",
+        "type": [
+            "Poison"
+        ],
+        "ability": {
+            "hp": 35,
+            "attack": 60,
+            "defense": 44,
+            "speed": 55,
+            "spDefense": 40,
+            "spAttack": 54
+        }
+    },
+    {
+        "id": 24,
+        "name": "Arbok",
+        "weight": 65,
+        "height": 3.5,
+        "url": "images/24-arbok.png",
+        "type": [
+            "Poison"
+        ],
+        "ability": {
+            "hp": 60,
+            "attack": 95,
+            "defense": 69,
+            "speed": 80,
+            "spDefense": 65,
+            "spAttack": 79
+        }
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "weight": 6,
+        "height": 0.4,
+        "url": "images/25-pikachu.png",
+        "type": [
+            "Electric"
+        ],
+        "ability": {
+            "hp": 35,
+            "attack": 55,
+            "defense": 40,
+            "speed": 90,
+            "spDefense": 50,
+            "spAttack": 50
+        }
+    },
+    {
+        "id": 26,
+        "name": "Raichu",
+        "weight": 30,
+        "height": 0.8,
+        "url": "images/26-raichu.png",
+        "type": [
+            "Electric"
+        ],
+        "ability": {
+            "hp": 60,
+            "attack": 90,
+            "defense": 55,
+            "speed": 110,
+            "spDefense": 90,
+            "spAttack": 80
+        }
+    },
+    {
+        "id": 27,
+        "name": "Sandshrew",
+        "weight": 12,
+        "height": 0.6,
+        "url": "images/27-sandshrew.png",
+        "type": [
+            "Ground"
+        ],
+        "ability": {
+            "hp": 50,
+            "attack": 75,
+            "defense": 85,
+            "speed": 40,
+            "spDefense": 20,
+            "spAttack": 30
+        }
+    },
+    {
+        "id": 28,
+        "name": "Sandslash",
+        "weight": 29.5,
+        "height": 1,
+        "url": "images/28-sandslash.png",
+        "type": [
+            "Ground"
+        ],
+        "ability": {
+            "hp": 75,
+            "attack": 100,
+            "defense": 110,
+            "speed": 65,
+            "spDefense": 45,
+            "spAttack": 55
+        }
+    },
+    {
+        "id": 29,
+        "name": "Nidoran♀",
+        "weight": 7,
+        "height": 0.4,
+        "url": "images/29-nidoran.png",
+        "type": [
+            "Poison"
+        ],
+        "ability": {
+            "hp": 55,
+            "attack": 47,
+            "defense": 52,
+            "speed": 41,
+            "spDefense": 40,
+            "spAttack": 40
+        }
+    },
+    {
+        "id": 30,
+        "name": "Nidorina",
+        "weight": 20,
+        "height": 0.8,
+        "url": "images/30-nidorina.png",
+        "type": [
+            "Poison"
+        ],
+        "ability": {
+            "hp": 70,
+            "attack": 62,
+            "defense": 67,
+            "speed": 56,
+            "spDefense": 55,
+            "spAttack": 55
+        }
+    },
+    {
+        "id": 31,
+        "name": "Nidoqueen",
+        "weight": 60,
+        "height": 1.3,
+        "url": "images/31-nidoqueen.png",
+        "type": [
+            "Poison",
+            "Ground"
+        ],
+        "ability": {
+            "hp": 90,
+            "attack": 92,
+            "defense": 87,
+            "speed": 76,
+            "spDefense": 75,
+            "spAttack": 85
+        }
+    },
+    {
+        "id": 32,
+        "name": "Nidoran♂",
+        "weight": 9,
+        "height": 0.5,
+        "url": "images/32-nidoran.png",
+        "type": [
+            "Poison"
+        ],
+        "ability": {
+            "hp": 46,
+            "attack": 57,
+            "defense": 40,
+            "speed": 50,
+            "spDefense": 40,
+            "spAttack": 40
+        }
+    },
+    {
+        "id": 33,
+        "name": "Nidorino",
+        "weight": 19.5,
+        "height": 0.9,
+        "url": "images/33-nidorino.png",
+        "type": [
+            "Poison"
+        ],
+        "ability": {
+            "hp": 61,
+            "attack": 72,
+            "defense": 57,
+            "speed": 65,
+            "spDefense": 55,
+            "spAttack": 55
+        }
+    },
+    {
+        "id": 34,
+        "name": "Nidoking",
+        "weight": 62,
+        "height": 1.4,
+        "url": "images/34-nidoking.png",
+        "type": [
+            "Poison",
+            "Ground"
+        ],
+        "ability": {
+            "hp": 81,
+            "attack": 102,
+            "defense": 77,
+            "speed": 85,
+            "spDefense": 85,
+            "spAttack": 75
+        }
+    },
+    {
+        "id": 35,
+        "name": "Clefairy",
+        "weight": 7.5,
+        "height": 0.6,
+        "url": "images/35-clefairy.png",
+        "type": [
+            "Fairy"
+        ],
+        "ability": {
+            "hp": 70,
+            "attack": 45,
+            "defense": 48,
+            "speed": 35,
+            "spDefense": 60,
+            "spAttack": 65
+        }
+    },
+    {
+        "id": 36,
+        "name": "Clefable",
+        "weight": 40,
+        "height": 1.3,
+        "url": "images/36-clefable.png",
+        "type": [
+            "Fairy"
+        ],
+        "ability": {
+            "hp": 95,
+            "attack": 70,
+            "defense": 73,
+            "speed": 60,
+            "spDefense": 95,
+            "spAttack": 90
+        }
+    },
+    {
+        "id": 37,
+        "name": "Vulpix",
+        "weight": 9.9,
+        "height": 0.6,
+        "url": "images/37-vulpix.png",
+        "type": [
+            "Fire"
+        ],
+        "ability": {
+            "hp": 38,
+            "attack": 41,
+            "defense": 40,
+            "speed": 65,
+            "spDefense": 50,
+            "spAttack": 65
+        }
+    },
+    {
+        "id": 38,
+        "name": "Ninetales",
+        "weight": 19.9,
+        "height": 1.1,
+        "url": "images/38-ninetales.png",
+        "type": [
+            "Fire"
+        ],
+        "ability": {
+            "hp": 73,
+            "attack": 76,
+            "defense": 75,
+            "speed": 100,
+            "spDefense": 81,
+            "spAttack": 100
+        }
+    },
+    {
+        "id": 39,
+        "name": "Jigglypuff",
+        "weight": 5.5,
+        "height": 0.5,
+        "url": "images/39-jigglypuff.png",
+        "type": [
+            "Normal",
+            "Fairy"
+        ],
+        "ability": {
+            "hp": 115,
+            "attack": 45,
+            "defense": 20,
+            "speed": 20,
+            "spDefense": 45,
+            "spAttack": 25
+        }
+    },
+    {
+        "id": 40,
+        "name": "Wigglytuff",
+        "weight": 12,
+        "height": 1,
+        "url": "images/40-wigglytuff.png",
+        "type": [
+            "Normal",
+            "Fairy"
+        ],
+        "ability": {
+            "hp": 140,
+            "attack": 70,
+            "defense": 45,
+            "speed": 45,
+            "spDefense": 85,
+            "spAttack": 50
+        }
+    },
+    {
+        "id": 41,
+        "name": "Zubat",
+        "weight": 7.5,
+        "height": 0.8,
+        "url": "images/41-zubat.png",
+        "type": [
+            "Poison",
+            "Flying"
+        ],
+        "ability": {
+            "hp": 40,
+            "attack": 45,
+            "defense": 35,
+            "speed": 55,
+            "spDefense": 30,
+            "spAttack": 40
+        }
+    },
+    {
+        "id": 42,
+        "name": "Golbat",
+        "weight": 55,
+        "height": 1.6,
+        "url": "images/42-golbat.png",
+        "type": [
+            "Poison",
+            "Flying"
+        ],
+        "ability": {
+            "hp": 75,
+            "attack": 80,
+            "defense": 70,
+            "speed": 90,
+            "spDefense": 65,
+            "spAttack": 75
+        }
+    },
+    {
+        "id": 43,
+        "name": "Oddish",
+        "weight": 5.4,
+        "height": 0.5,
+        "url": "images/43-oddish.png",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "ability": {
+            "hp": 45,
+            "attack": 50,
+            "defense": 55,
+            "speed": 30,
+            "spDefense": 75,
+            "spAttack": 65
+        }
+    },
+    {
+        "id": 44,
+        "name": "Gloom",
+        "weight": 8.6,
+        "height": 0.8,
+        "url": "images/44-gloom.png",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "ability": {
+            "hp": 60,
+            "attack": 65,
+            "defense": 70,
+            "speed": 40,
+            "spDefense": 85,
+            "spAttack": 75
+        }
+    },
+    {
+        "id": 45,
+        "name": "Vileplume",
+        "weight": 18.6,
+        "height": 1.2,
+        "url": "images/45-vileplume.png",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "ability": {
+            "hp": 75,
+            "attack": 80,
+            "defense": 85,
+            "speed": 50,
+            "spDefense": 110,
+            "spAttack": 90
+        }
+    },
+    {
+        "id": 46,
+        "name": "Paras",
+        "weight": 5.4,
+        "height": 0.3,
+        "url": "images/46-paras.png",
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "ability": {
+            "hp": 35,
+            "attack": 70,
+            "defense": 55,
+            "speed": 25,
+            "spDefense": 45,
+            "spAttack": 55
+        }
+    },
+    {
+        "id": 47,
+        "name": "Parasect",
+        "weight": 29.5,
+        "height": 1,
+        "url": "images/47-parasect.png",
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "ability": {
+            "hp": 60,
+            "attack": 95,
+            "defense": 80,
+            "speed": 30,
+            "spDefense": 60,
+            "spAttack": 80
+        }
+    },
+    {
+        "id": 48,
+        "name": "Venonat",
+        "weight": 30,
+        "height": 1,
+        "url": "images/48-venonat.png",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "ability": {
+            "hp": 60,
+            "attack": 55,
+            "defense": 50,
+            "speed": 45,
+            "spDefense": 40,
+            "spAttack": 55
+        }
+    },
+    {
+        "id": 49,
+        "name": "Venomoth",
+        "weight": 12.5,
+        "height": 1.5,
+        "url": "images/49-venomoth.png",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "ability": {
+            "hp": 70,
+            "attack": 65,
+            "defense": 60,
+            "speed": 90,
+            "spDefense": 90,
+            "spAttack": 75
+        }
+    },
+    {
+        "id": 50,
+        "name": "Diglett",
+        "weight": 0.8,
+        "height": 0.2,
+        "url": "images/50-diglett.png",
+        "type": [
+            "Ground"
+        ],
+        "ability": {
+            "hp": 10,
+            "attack": 55,
+            "defense": 25,
+            "speed": 95,
+            "spDefense": 35,
+            "spAttack": 45
+        }
+    },
+    {
+        "id": 51,
+        "name": "Dugtrio",
+        "weight": 33.3,
+        "height": 0.7,
+        "url": "images/51-dugtrio.png",
+        "type": [
+            "Ground"
+        ],
+        "ability": {
+            "hp": 35,
+            "attack": 100,
+            "defense": 50,
+            "speed": 120,
+            "spDefense": 50,
+            "spAttack": 70
+        }
+    },
+    {
+        "id": 52,
+        "name": "Meowth",
+        "weight": 4.2,
+        "height": 0.4,
+        "url": "images/52-meowth.png",
+        "type": [
+            "Normal"
+        ],
+        "ability": {
+            "hp": 40,
+            "attack": 45,
+            "defense": 35,
+            "speed": 90,
+            "spDefense": 40,
+            "spAttack": 40
+        }
+    },
+    {
+        "id": 53,
+        "name": "Persian",
+        "weight": 32,
+        "height": 1,
+        "url": "images/53-persian.png",
+        "type": [
+            "Normal"
+        ],
+        "ability": {
+            "hp": 65,
+            "attack": 70,
+            "defense": 60,
+            "speed": 115,
+            "spDefense": 65,
+            "spAttack": 65
+        }
+    },
+    {
+        "id": 54,
+        "name": "Psyduck",
+        "weight": 19.6,
+        "height": 0.8,
+        "url": "images/54-psyduck.png",
+        "type": [
+            "Water"
+        ],
+        "ability": {
+            "hp": 50,
+            "attack": 52,
+            "defense": 48,
+            "speed": 55,
+            "spDefense": 65,
+            "spAttack": 50
+        }
+    },
+    {
+        "id": 55,
+        "name": "Golduck",
+        "weight": 76.6,
+        "height": 1.7,
+        "url": "images/55-golduck.png",
+        "type": [
+            "Water"
+        ],
+        "ability": {
+            "hp": 80,
+            "attack": 82,
+            "defense": 78,
+            "speed": 85,
+            "spDefense": 95,
+            "spAttack": 80
+        }
+    },
+    {
+        "id": 56,
+        "name": "Mankey",
+        "weight": 28,
+        "height": 0.5,
+        "url": "images/56-mankey.png",
+        "type": [
+            "Fighting"
+        ],
+        "ability": {
+            "hp": 40,
+            "attack": 80,
+            "defense": 35,
+            "speed": 70,
+            "spDefense": 35,
+            "spAttack": 45
+        }
+    },
+    {
+        "id": 57,
+        "name": "Primeape",
+        "weight": 32,
+        "height": 1,
+        "url": "images/57-primeape.png",
+        "type": [
+            "Fighting"
+        ],
+        "ability": {
+            "hp": 65,
+            "attack": 105,
+            "defense": 60,
+            "speed": 95,
+            "spDefense": 60,
+            "spAttack": 70
+        }
+    },
+    {
+        "id": 58,
+        "name": "Growlithe",
+        "weight": 19,
+        "height": 0.7,
+        "url": "images/58-growlithe.png",
+        "type": [
+            "Fire"
+        ],
+        "ability": {
+            "hp": 55,
+            "attack": 70,
+            "defense": 45,
+            "speed": 60,
+            "spDefense": 70,
+            "spAttack": 50
+        }
+    },
+    {
+        "id": 59,
+        "name": "Arcanine",
+        "weight": 155,
+        "height": 1.9,
+        "url": "images/59-arcanine.png",
+        "type": [
+            "Fire"
+        ],
+        "ability": {
+            "hp": 90,
+            "attack": 110,
+            "defense": 80,
+            "speed": 95,
+            "spDefense": 100,
+            "spAttack": 80
+        }
+    },
+    {
+        "id": 60,
+        "name": "Poliwag",
+        "weight": 12.4,
+        "height": 0.6,
+        "url": "images/60-poliwag.png",
+        "type": [
+            "Water"
+        ],
+        "ability": {
+            "hp": 40,
+            "attack": 50,
+            "defense": 40,
+            "speed": 90,
+            "spDefense": 40,
+            "spAttack": 40
+        }
+    },
+    {
+        "id": 61,
+        "name": "Poliwhirl",
+        "weight": 20,
+        "height": 1,
+        "url": "images/61-poliwhirl.png",
+        "type": [
+            "Water"
+        ],
+        "ability": {
+            "hp": 65,
+            "attack": 65,
+            "defense": 65,
+            "speed": 90,
+            "spDefense": 50,
+            "spAttack": 50
+        }
+    },
+    {
+        "id": 62,
+        "name": "Poliwrath",
+        "weight": 54,
+        "height": 1.3,
+        "url": "images/62-poliwrath.png",
+        "type": [
+            "Water",
+            "Fighting"
+        ],
+        "ability": {
+            "hp": 90,
+            "attack": 95,
+            "defense": 95,
+            "speed": 70,
+            "spDefense": 70,
+            "spAttack": 90
+        }
+    },
+    {
+        "id": 63,
+        "name": "Abra",
+        "weight": 19.5,
+        "height": 0.9,
+        "url": "images/63-abra.png",
+        "type": [
+            "Psychic"
+        ],
+        "ability": {
+            "hp": 25,
+            "attack": 20,
+            "defense": 15,
+            "speed": 90,
+            "spDefense": 105,
+            "spAttack": 55
+        }
+    },
+    {
+        "id": 64,
+        "name": "Kadabra",
+        "weight": 56.5,
+        "height": 1.3,
+        "url": "images/64-kadabra.png",
+        "type": [
+            "Psychic"
+        ],
+        "ability": {
+            "hp": 40,
+            "attack": 35,
+            "defense": 30,
+            "speed": 105,
+            "spDefense": 120,
+            "spAttack": 70
+        }
+    },
+    {
+        "id": 65,
+        "name": "Alakazam",
+        "weight": 48,
+        "height": 1.5,
+        "url": "images/65-alakazam.png",
+        "type": [
+            "Psychic"
+        ],
+        "ability": {
+            "hp": 55,
+            "attack": 50,
+            "defense": 45,
+            "speed": 120,
+            "spDefense": 135,
+            "spAttack": 95
+        }
+    },
+    {
+        "id": 66,
+        "name": "Machop",
+        "weight": 19.5,
+        "height": 0.8,
+        "url": "images/66-machop.png",
+        "type": [
+            "Fighting"
+        ],
+        "ability": {
+            "hp": 70,
+            "attack": 80,
+            "defense": 50,
+            "speed": 35,
+            "spDefense": 35,
+            "spAttack": 35
+        }
+    },
+    {
+        "id": 67,
+        "name": "Machoke",
+        "weight": 70.5,
+        "height": 1.5,
+        "url": "images/67-machoke.png",
+        "type": [
+            "Fighting"
+        ],
+        "ability": {
+            "hp": 80,
+            "attack": 100,
+            "defense": 70,
+            "speed": 45,
+            "spDefense": 50,
+            "spAttack": 60
+        }
+    },
+    {
+        "id": 68,
+        "name": "Machamp",
+        "weight": 130,
+        "height": 1.6,
+        "url": "images/68-machamp.png",
+        "type": [
+            "Fighting"
+        ],
+        "ability": {
+            "hp": 90,
+            "attack": 130,
+            "defense": 80,
+            "speed": 55,
+            "spDefense": 65,
+            "spAttack": 85
+        }
+    },
+    {
+        "id": 69,
+        "name": "Bellsprout",
+        "weight": 4,
+        "height": 0.7,
+        "url": "images/69-bellsprout.png",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "ability": {
+            "hp": 50,
+            "attack": 75,
+            "defense": 35,
+            "speed": 40,
+            "spDefense": 70,
+            "spAttack": 30
+        }
+    },
+    {
+        "id": 70,
+        "name": "Weepinbell",
+        "weight": 6.4,
+        "height": 1,
+        "url": "images/70-weepinbell.png",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "ability": {
+            "hp": 65,
+            "attack": 90,
+            "defense": 50,
+            "speed": 55,
+            "spDefense": 85,
+            "spAttack": 45
+        }
+    },
+    {
+        "id": 71,
+        "name": "Victreebel",
+        "weight": 15.5,
+        "height": 1.7,
+        "url": "images/71-victreebel.png",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "ability": {
+            "hp": 80,
+            "attack": 105,
+            "defense": 65,
+            "speed": 70,
+            "spDefense": 100,
+            "spAttack": 70
+        }
+    },
+    {
+        "id": 72,
+        "name": "Tentacool",
+        "weight": 45.5,
+        "height": 0.9,
+        "url": "images/72-tentacool.png",
+        "type": [
+            "Water",
+            "Poison"
+        ],
+        "ability": {
+            "hp": 40,
+            "attack": 40,
+            "defense": 35,
+            "speed": 70,
+            "spDefense": 50,
+            "spAttack": 100
+        }
+    },
+    {
+        "id": 73,
+        "name": "Tentacruel",
+        "weight": 55,
+        "height": 1.6,
+        "url": "images/73-tentacruel.png",
+        "type": [
+            "Water",
+            "Poison"
+        ],
+        "ability": {
+            "hp": 80,
+            "attack": 70,
+            "defense": 65,
+            "speed": 100,
+            "spDefense": 80,
+            "spAttack": 120
+        }
+    },
+    {
+        "id": 74,
+        "name": "Geodude",
+        "weight": 20,
+        "height": 0.4,
+        "url": "images/74-geodude.png",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "ability": {
+            "hp": 40,
+            "attack": 80,
+            "defense": 100,
+            "speed": 20,
+            "spDefense": 30,
+            "spAttack": 30
+        }
+    },
+    {
+        "id": 75,
+        "name": "Graveler",
+        "weight": 105,
+        "height": 1,
+        "url": "images/75-graveler.png",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "ability": {
+            "hp": 55,
+            "attack": 95,
+            "defense": 115,
+            "speed": 35,
+            "spDefense": 45,
+            "spAttack": 45
+        }
+    },
+    {
+        "id": 76,
+        "name": "Golem",
+        "weight": 300,
+        "height": 1.4,
+        "url": "images/76-golem.png",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "ability": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 130,
+            "speed": 45,
+            "spDefense": 55,
+            "spAttack": 65
+        }
+    },
+    {
+        "id": 77,
+        "name": "Ponyta",
+        "weight": 30,
+        "height": 1,
+        "url": "images/77-ponyta.png",
+        "type": [
+            "Fire"
+        ],
+        "ability": {
+            "hp": 50,
+            "attack": 85,
+            "defense": 55,
+            "speed": 90,
+            "spDefense": 65,
+            "spAttack": 65
+        }
+    },
+    {
+        "id": 78,
+        "name": "Rapidash",
+        "weight": 95,
+        "height": 1.7,
+        "url": "images/78-rapidash.png",
+        "type": [
+            "Fire"
+        ],
+        "ability": {
+            "hp": 65,
+            "attack": 100,
+            "defense": 70,
+            "speed": 105,
+            "spDefense": 80,
+            "spAttack": 80
+        }
+    },
+    {
+        "id": 79,
+        "name": "Slowpoke",
+        "weight": 36,
+        "height": 1.2,
+        "url": "images/79-slowpoke.png",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "ability": {
+            "hp": 90,
+            "attack": 65,
+            "defense": 65,
+            "speed": 15,
+            "spDefense": 40,
+            "spAttack": 40
+        }
+    },
+    {
+        "id": 80,
+        "name": "Slowbro",
+        "weight": 78.5,
+        "height": 1.6,
+        "url": "images/80-slowbro.png",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "ability": {
+            "hp": 95,
+            "attack": 75,
+            "defense": 110,
+            "speed": 30,
+            "spDefense": 100,
+            "spAttack": 80
+        }
+    },
+    {
+        "id": 81,
+        "name": "Magnemite",
+        "weight": 6,
+        "height": 0.3,
+        "url": "images/81-magnemite.png",
+        "type": [
+            "Electric",
+            "Steel"
+        ],
+        "ability": {
+            "hp": 25,
+            "attack": 35,
+            "defense": 70,
+            "speed": 45,
+            "spDefense": 95,
+            "spAttack": 55
+        }
+    },
+    {
+        "id": 82,
+        "name": "Magneton",
+        "weight": 60,
+        "height": 1,
+        "url": "images/82-magneton.png",
+        "type": [
+            "Electric",
+            "Steel"
+        ],
+        "ability": {
+            "hp": 50,
+            "attack": 60,
+            "defense": 95,
+            "speed": 70,
+            "spDefense": 120,
+            "spAttack": 70
+        }
+    },
+    {
+        "id": 83,
+        "name": "Farfetch'd",
+        "weight": 15,
+        "height": 0.8,
+        "url": "images/83-farfetch'd.png",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "ability": {
+            "hp": 52,
+            "attack": 90,
+            "defense": 55,
+            "speed": 60,
+            "spDefense": 58,
+            "spAttack": 62
+        }
+    },
+    {
+        "id": 84,
+        "name": "Doduo",
+        "weight": 39.2,
+        "height": 1.4,
+        "url": "images/84-doduo.png",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "ability": {
+            "hp": 35,
+            "attack": 85,
+            "defense": 45,
+            "speed": 75,
+            "spDefense": 35,
+            "spAttack": 35
+        }
+    },
+    {
+        "id": 85,
+        "name": "Dodrio",
+        "weight": 85.2,
+        "height": 1.8,
+        "url": "images/85-dodrio.png",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "ability": {
+            "hp": 60,
+            "attack": 110,
+            "defense": 70,
+            "speed": 110,
+            "spDefense": 60,
+            "spAttack": 60
+        }
+    },
+    {
+        "id": 86,
+        "name": "Seel",
+        "weight": 90,
+        "height": 1.1,
+        "url": "images/86-seel.png",
+        "type": [
+            "Water"
+        ],
+        "ability": {
+            "hp": 65,
+            "attack": 45,
+            "defense": 55,
+            "speed": 45,
+            "spDefense": 45,
+            "spAttack": 70
+        }
+    },
+    {
+        "id": 87,
+        "name": "Dewgong",
+        "weight": 120,
+        "height": 1.7,
+        "url": "images/87-dewgong.png",
+        "type": [
+            "Water",
+            "Ice"
+        ],
+        "ability": {
+            "hp": 90,
+            "attack": 70,
+            "defense": 80,
+            "speed": 70,
+            "spDefense": 70,
+            "spAttack": 95
+        }
+    },
+    {
+        "id": 88,
+        "name": "Grimer",
+        "weight": 30,
+        "height": 0.9,
+        "url": "images/88-grimer.png",
+        "type": [
+            "Poison"
+        ],
+        "ability": {
+            "hp": 80,
+            "attack": 80,
+            "defense": 50,
+            "speed": 25,
+            "spDefense": 40,
+            "spAttack": 50
+        }
+    },
+    {
+        "id": 89,
+        "name": "Muk",
+        "weight": 30,
+        "height": 1.2,
+        "url": "images/89-muk.png",
+        "type": [
+            "Poison"
+        ],
+        "ability": {
+            "hp": 105,
+            "attack": 105,
+            "defense": 75,
+            "speed": 50,
+            "spDefense": 65,
+            "spAttack": 100
+        }
+    },
+    {
+        "id": 90,
+        "name": "Shellder",
+        "weight": 4,
+        "height": 0.3,
+        "url": "images/90-shellder.png",
+        "type": [
+            "Water"
+        ],
+        "ability": {
+            "hp": 30,
+            "attack": 65,
+            "defense": 100,
+            "speed": 40,
+            "spDefense": 45,
+            "spAttack": 25
+        }
+    },
+    {
+        "id": 91,
+        "name": "Cloyster",
+        "weight": 132.5,
+        "height": 1.5,
+        "url": "images/91-cloyster.png",
+        "type": [
+            "Water",
+            "Ice"
+        ],
+        "ability": {
+            "hp": 50,
+            "attack": 95,
+            "defense": 180,
+            "speed": 70,
+            "spDefense": 85,
+            "spAttack": 45
+        }
+    },
+    {
+        "id": 92,
+        "name": "Gastly",
+        "weight": 0.1,
+        "height": 1.3,
+        "url": "images/92-gastly.png",
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "ability": {
+            "hp": 30,
+            "attack": 35,
+            "defense": 30,
+            "speed": 80,
+            "spDefense": 100,
+            "spAttack": 35
+        }
+    },
+    {
+        "id": 93,
+        "name": "Haunter",
+        "weight": 0.1,
+        "height": 1.6,
+        "url": "images/93-haunter.png",
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "ability": {
+            "hp": 45,
+            "attack": 50,
+            "defense": 45,
+            "speed": 95,
+            "spDefense": 115,
+            "spAttack": 55
+        }
+    },
+    {
+        "id": 94,
+        "name": "Gengar",
+        "weight": 40.5,
+        "height": 1.5,
+        "url": "images/94-gengar.png",
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "ability": {
+            "hp": 60,
+            "attack": 65,
+            "defense": 60,
+            "speed": 110,
+            "spDefense": 130,
+            "spAttack": 75
+        }
+    },
+    {
+        "id": 95,
+        "name": "Onix",
+        "weight": 210,
+        "height": 8.8,
+        "url": "images/95-onix.png",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "ability": {
+            "hp": 35,
+            "attack": 45,
+            "defense": 160,
+            "speed": 70,
+            "spDefense": 30,
+            "spAttack": 45
+        }
+    },
+    {
+        "id": 96,
+        "name": "Drowzee",
+        "weight": 32.4,
+        "height": 1,
+        "url": "images/96-drowzee.png",
+        "type": [
+            "Psychic"
+        ],
+        "ability": {
+            "hp": 60,
+            "attack": 48,
+            "defense": 45,
+            "speed": 42,
+            "spDefense": 43,
+            "spAttack": 90
+        }
+    },
+    {
+        "id": 97,
+        "name": "Hypno",
+        "weight": 75.6,
+        "height": 1.6,
+        "url": "images/97-hypno.png",
+        "type": [
+            "Psychic"
+        ],
+        "ability": {
+            "hp": 85,
+            "attack": 73,
+            "defense": 70,
+            "speed": 67,
+            "spDefense": 73,
+            "spAttack": 115
+        }
+    },
+    {
+        "id": 98,
+        "name": "Krabby",
+        "weight": 6.5,
+        "height": 0.4,
+        "url": "images/98-krabby.png",
+        "type": [
+            "Water"
+        ],
+        "ability": {
+            "hp": 30,
+            "attack": 105,
+            "defense": 90,
+            "speed": 50,
+            "spDefense": 25,
+            "spAttack": 25
+        }
+    },
+    {
+        "id": 99,
+        "name": "Kingler",
+        "weight": 60,
+        "height": 1.3,
+        "url": "images/99-kingler.png",
+        "type": [
+            "Water"
+        ],
+        "ability": {
+            "hp": 55,
+            "attack": 130,
+            "defense": 115,
+            "speed": 75,
+            "spDefense": 50,
+            "spAttack": 50
+        }
+    },
+    {
+        "id": 100,
+        "name": "Voltorb",
+        "weight": 10.4,
+        "height": 0.5,
+        "url": "images/100-voltorb.png",
+        "type": [
+            "Electric"
+        ],
+        "ability": {
+            "hp": 40,
+            "attack": 30,
+            "defense": 50,
+            "speed": 100,
+            "spDefense": 55,
+            "spAttack": 55
+        }
+    },
+    {
+        "id": 101,
+        "name": "Electrode",
+        "weight": 66.6,
+        "height": 1.2,
+        "url": "images/101-electrode.png",
+        "type": [
+            "Electric"
+        ],
+        "ability": {
+            "hp": 60,
+            "attack": 50,
+            "defense": 70,
+            "speed": 150,
+            "spDefense": 80,
+            "spAttack": 80
+        }
+    },
+    {
+        "id": 102,
+        "name": "Exeggcute",
+        "weight": 2.5,
+        "height": 0.4,
+        "url": "images/102-exeggcute.png",
+        "type": [
+            "Grass",
+            "Psychic"
+        ],
+        "ability": {
+            "hp": 60,
+            "attack": 40,
+            "defense": 80,
+            "speed": 40,
+            "spDefense": 60,
+            "spAttack": 45
+        }
+    },
+    {
+        "id": 103,
+        "name": "Exeggutor",
+        "weight": 120,
+        "height": 2,
+        "url": "images/103-exeggutor.png",
+        "type": [
+            "Grass",
+            "Psychic"
+        ],
+        "ability": {
+            "hp": 95,
+            "attack": 95,
+            "defense": 85,
+            "speed": 55,
+            "spDefense": 125,
+            "spAttack": 75
+        }
+    },
+    {
+        "id": 104,
+        "name": "Cubone",
+        "weight": 6.5,
+        "height": 0.4,
+        "url": "images/104-cubone.png",
+        "type": [
+            "Ground"
+        ],
+        "ability": {
+            "hp": 50,
+            "attack": 50,
+            "defense": 95,
+            "speed": 35,
+            "spDefense": 40,
+            "spAttack": 50
+        }
+    },
+    {
+        "id": 105,
+        "name": "Marowak",
+        "weight": 45,
+        "height": 1,
+        "url": "images/105-marowak.png",
+        "type": [
+            "Ground"
+        ],
+        "ability": {
+            "hp": 60,
+            "attack": 80,
+            "defense": 110,
+            "speed": 45,
+            "spDefense": 50,
+            "spAttack": 80
+        }
+    },
+    {
+        "id": 106,
+        "name": "Hitmonlee",
+        "weight": 49.8,
+        "height": 1.5,
+        "url": "images/106-hitmonlee.png",
+        "type": [
+            "Fighting"
+        ],
+        "ability": {
+            "hp": 50,
+            "attack": 120,
+            "defense": 53,
+            "speed": 87,
+            "spDefense": 35,
+            "spAttack": 110
+        }
+    },
+    {
+        "id": 107,
+        "name": "Hitmonchan",
+        "weight": 50.2,
+        "height": 1.4,
+        "url": "images/107-hitmonchan.png",
+        "type": [
+            "Fighting"
+        ],
+        "ability": {
+            "hp": 50,
+            "attack": 105,
+            "defense": 79,
+            "speed": 76,
+            "spDefense": 35,
+            "spAttack": 110
+        }
+    },
+    {
+        "id": 108,
+        "name": "Lickitung",
+        "weight": 65.5,
+        "height": 1.2,
+        "url": "images/108-lickitung.png",
+        "type": [
+            "Normal"
+        ],
+        "ability": {
+            "hp": 90,
+            "attack": 55,
+            "defense": 75,
+            "speed": 30,
+            "spDefense": 60,
+            "spAttack": 75
+        }
+    },
+    {
+        "id": 109,
+        "name": "Koffing",
+        "weight": 1,
+        "height": 0.6,
+        "url": "images/109-koffing.png",
+        "type": [
+            "Poison"
+        ],
+        "ability": {
+            "hp": 40,
+            "attack": 65,
+            "defense": 95,
+            "speed": 35,
+            "spDefense": 60,
+            "spAttack": 45
+        }
+    },
+    {
+        "id": 110,
+        "name": "Weezing",
+        "weight": 9.5,
+        "height": 1.2,
+        "url": "images/110-weezing.png",
+        "type": [
+            "Poison"
+        ],
+        "ability": {
+            "hp": 65,
+            "attack": 90,
+            "defense": 120,
+            "speed": 60,
+            "spDefense": 85,
+            "spAttack": 70
+        }
+    },
+    {
+        "id": 111,
+        "name": "Rhyhorn",
+        "weight": 115,
+        "height": 1,
+        "url": "images/111-rhyhorn.png",
+        "type": [
+            "Ground",
+            "Rock"
+        ],
+        "ability": {
+            "hp": 80,
+            "attack": 85,
+            "defense": 95,
+            "speed": 25,
+            "spDefense": 30,
+            "spAttack": 30
+        }
+    },
+    {
+        "id": 112,
+        "name": "Rhydon",
+        "weight": 120,
+        "height": 1.9,
+        "url": "images/112-rhydon.png",
+        "type": [
+            "Ground",
+            "Rock"
+        ],
+        "ability": {
+            "hp": 105,
+            "attack": 130,
+            "defense": 120,
+            "speed": 40,
+            "spDefense": 45,
+            "spAttack": 45
+        }
+    },
+    {
+        "id": 113,
+        "name": "Chansey",
+        "weight": 34.6,
+        "height": 1.1,
+        "url": "images/113-chansey.png",
+        "type": [
+            "Normal"
+        ],
+        "ability": {
+            "hp": 250,
+            "attack": 5,
+            "defense": 5,
+            "speed": 50,
+            "spDefense": 35,
+            "spAttack": 105
+        }
+    },
+    {
+        "id": 114,
+        "name": "Tangela",
+        "weight": 35,
+        "height": 1,
+        "url": "images/114-tangela.png",
+        "type": [
+            "Grass"
+        ],
+        "ability": {
+            "hp": 65,
+            "attack": 55,
+            "defense": 115,
+            "speed": 60,
+            "spDefense": 100,
+            "spAttack": 40
+        }
+    },
+    {
+        "id": 115,
+        "name": "Kangaskhan",
+        "weight": 80,
+        "height": 2.2,
+        "url": "images/115-kangaskhan.png",
+        "type": [
+            "Normal"
+        ],
+        "ability": {
+            "hp": 105,
+            "attack": 95,
+            "defense": 80,
+            "speed": 90,
+            "spDefense": 40,
+            "spAttack": 80
+        }
+    },
+    {
+        "id": 116,
+        "name": "Horsea",
+        "weight": 8,
+        "height": 0.4,
+        "url": "images/116-horsea.png",
+        "type": [
+            "Water"
+        ],
+        "ability": {
+            "hp": 30,
+            "attack": 40,
+            "defense": 70,
+            "speed": 60,
+            "spDefense": 70,
+            "spAttack": 25
+        }
+    },
+    {
+        "id": 117,
+        "name": "Seadra",
+        "weight": 25,
+        "height": 1.2,
+        "url": "images/117-seadra.png",
+        "type": [
+            "Water"
+        ],
+        "ability": {
+            "hp": 55,
+            "attack": 65,
+            "defense": 95,
+            "speed": 85,
+            "spDefense": 95,
+            "spAttack": 45
+        }
+    },
+    {
+        "id": 118,
+        "name": "Goldeen",
+        "weight": 15,
+        "height": 0.6,
+        "url": "images/118-goldeen.png",
+        "type": [
+            "Water"
+        ],
+        "ability": {
+            "hp": 45,
+            "attack": 67,
+            "defense": 60,
+            "speed": 63,
+            "spDefense": 35,
+            "spAttack": 50
+        }
+    },
+    {
+        "id": 119,
+        "name": "Seaking",
+        "weight": 39,
+        "height": 1.3,
+        "url": "images/119-seaking.png",
+        "type": [
+            "Water"
+        ],
+        "ability": {
+            "hp": 80,
+            "attack": 92,
+            "defense": 65,
+            "speed": 68,
+            "spDefense": 65,
+            "spAttack": 80
+        }
+    },
+    {
+        "id": 120,
+        "name": "Staryu",
+        "weight": 34.5,
+        "height": 0.8,
+        "url": "images/120-staryu.png",
+        "type": [
+            "Water"
+        ],
+        "ability": {
+            "hp": 30,
+            "attack": 45,
+            "defense": 55,
+            "speed": 85,
+            "spDefense": 70,
+            "spAttack": 55
+        }
+    },
+    {
+        "id": 121,
+        "name": "Starmie",
+        "weight": 80,
+        "height": 1.1,
+        "url": "images/121-starmie.png",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "ability": {
+            "hp": 60,
+            "attack": 75,
+            "defense": 85,
+            "speed": 115,
+            "spDefense": 100,
+            "spAttack": 85
+        }
+    },
+    {
+        "id": 122,
+        "name": "Mr. Mime",
+        "weight": 54.5,
+        "height": 1.3,
+        "url": "images/122-mr. mime.png",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "ability": {
+            "hp": 40,
+            "attack": 45,
+            "defense": 65,
+            "speed": 90,
+            "spDefense": 100,
+            "spAttack": 120
+        }
+    },
+    {
+        "id": 123,
+        "name": "Scyther",
+        "weight": 56,
+        "height": 1.5,
+        "url": "images/123-scyther.png",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "ability": {
+            "hp": 70,
+            "attack": 110,
+            "defense": 80,
+            "speed": 105,
+            "spDefense": 55,
+            "spAttack": 80
+        }
+    },
+    {
+        "id": 124,
+        "name": "Jynx",
+        "weight": 40.6,
+        "height": 1.4,
+        "url": "images/124-jynx.png",
+        "type": [
+            "Ice",
+            "Psychic"
+        ],
+        "ability": {
+            "hp": 65,
+            "attack": 50,
+            "defense": 35,
+            "speed": 95,
+            "spDefense": 115,
+            "spAttack": 95
+        }
+    },
+    {
+        "id": 125,
+        "name": "Electabuzz",
+        "weight": 30,
+        "height": 1.1,
+        "url": "images/125-electabuzz.png",
+        "type": [
+            "Electric"
+        ],
+        "ability": {
+            "hp": 65,
+            "attack": 83,
+            "defense": 57,
+            "speed": 105,
+            "spDefense": 95,
+            "spAttack": 85
+        }
+    },
+    {
+        "id": 126,
+        "name": "Magmar",
+        "weight": 44.5,
+        "height": 1.3,
+        "url": "images/126-magmar.png",
+        "type": [
+            "Fire"
+        ],
+        "ability": {
+            "hp": 65,
+            "attack": 95,
+            "defense": 57,
+            "speed": 93,
+            "spDefense": 100,
+            "spAttack": 85
+        }
+    },
+    {
+        "id": 127,
+        "name": "Pinsir",
+        "weight": 55,
+        "height": 1.5,
+        "url": "images/127-pinsir.png",
+        "type": [
+            "Bug"
+        ],
+        "ability": {
+            "hp": 65,
+            "attack": 125,
+            "defense": 100,
+            "speed": 85,
+            "spDefense": 55,
+            "spAttack": 70
+        }
+    },
+    {
+        "id": 128,
+        "name": "Tauros",
+        "weight": 88.4,
+        "height": 1.4,
+        "url": "images/128-tauros.png",
+        "type": [
+            "Normal"
+        ],
+        "ability": {
+            "hp": 75,
+            "attack": 100,
+            "defense": 95,
+            "speed": 110,
+            "spDefense": 40,
+            "spAttack": 70
+        }
+    },
+    {
+        "id": 129,
+        "name": "Magikarp",
+        "weight": 10,
+        "height": 0.9,
+        "url": "images/129-magikarp.png",
+        "type": [
+            "Water"
+        ],
+        "ability": {
+            "hp": 20,
+            "attack": 10,
+            "defense": 55,
+            "speed": 80,
+            "spDefense": 15,
+            "spAttack": 20
+        }
+    },
+    {
+        "id": 130,
+        "name": "Gyarados",
+        "weight": 235,
+        "height": 6.5,
+        "url": "images/130-gyarados.png",
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "ability": {
+            "hp": 95,
+            "attack": 125,
+            "defense": 79,
+            "speed": 81,
+            "spDefense": 60,
+            "spAttack": 100
+        }
+    },
+    {
+        "id": 131,
+        "name": "Lapras",
+        "weight": 220,
+        "height": 2.5,
+        "url": "images/131-lapras.png",
+        "type": [
+            "Water",
+            "Ice"
+        ],
+        "ability": {
+            "hp": 130,
+            "attack": 85,
+            "defense": 80,
+            "speed": 60,
+            "spDefense": 85,
+            "spAttack": 95
+        }
+    },
+    {
+        "id": 132,
+        "name": "Ditto",
+        "weight": 4,
+        "height": 0.3,
+        "url": "images/132-ditto.png",
+        "type": [
+            "Normal"
+        ],
+        "ability": {
+            "hp": 48,
+            "attack": 48,
+            "defense": 48,
+            "speed": 48,
+            "spDefense": 48,
+            "spAttack": 48
+        }
+    },
+    {
+        "id": 133,
+        "name": "Eevee",
+        "weight": 6.5,
+        "height": 0.3,
+        "url": "images/133-eevee.png",
+        "type": [
+            "Normal"
+        ],
+        "ability": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 50,
+            "speed": 55,
+            "spDefense": 45,
+            "spAttack": 65
+        }
+    },
+    {
+        "id": 134,
+        "name": "Vaporeon",
+        "weight": 29,
+        "height": 1,
+        "url": "images/134-vaporeon.png",
+        "type": [
+            "Water"
+        ],
+        "ability": {
+            "hp": 130,
+            "attack": 65,
+            "defense": 60,
+            "speed": 65,
+            "spDefense": 110,
+            "spAttack": 95
+        }
+    },
+    {
+        "id": 135,
+        "name": "Jolteon",
+        "weight": 24.5,
+        "height": 0.8,
+        "url": "images/135-jolteon.png",
+        "type": [
+            "Electric"
+        ],
+        "ability": {
+            "hp": 65,
+            "attack": 65,
+            "defense": 60,
+            "speed": 130,
+            "spDefense": 110,
+            "spAttack": 95
+        }
+    },
+    {
+        "id": 136,
+        "name": "Flareon",
+        "weight": 25,
+        "height": 0.9,
+        "url": "images/136-flareon.png",
+        "type": [
+            "Fire"
+        ],
+        "ability": {
+            "hp": 65,
+            "attack": 130,
+            "defense": 60,
+            "speed": 65,
+            "spDefense": 95,
+            "spAttack": 110
+        }
+    },
+    {
+        "id": 137,
+        "name": "Porygon",
+        "weight": 36.5,
+        "height": 0.8,
+        "url": "images/137-porygon.png",
+        "type": [
+            "Normal"
+        ],
+        "ability": {
+            "hp": 65,
+            "attack": 60,
+            "defense": 70,
+            "speed": 40,
+            "spDefense": 85,
+            "spAttack": 75
+        }
+    },
+    {
+        "id": 138,
+        "name": "Omanyte",
+        "weight": 7.5,
+        "height": 0.4,
+        "url": "images/138-omanyte.png",
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "ability": {
+            "hp": 35,
+            "attack": 40,
+            "defense": 100,
+            "speed": 35,
+            "spDefense": 90,
+            "spAttack": 55
+        }
+    },
+    {
+        "id": 139,
+        "name": "Omastar",
+        "weight": 35,
+        "height": 1,
+        "url": "images/139-omastar.png",
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "ability": {
+            "hp": 70,
+            "attack": 60,
+            "defense": 125,
+            "speed": 55,
+            "spDefense": 115,
+            "spAttack": 70
+        }
+    },
+    {
+        "id": 140,
+        "name": "Kabuto",
+        "weight": 11.5,
+        "height": 0.5,
+        "url": "images/140-kabuto.png",
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "ability": {
+            "hp": 30,
+            "attack": 80,
+            "defense": 90,
+            "speed": 55,
+            "spDefense": 55,
+            "spAttack": 45
+        }
+    },
+    {
+        "id": 141,
+        "name": "Kabutops",
+        "weight": 40.5,
+        "height": 1.3,
+        "url": "images/141-kabutops.png",
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "ability": {
+            "hp": 60,
+            "attack": 115,
+            "defense": 105,
+            "speed": 80,
+            "spDefense": 65,
+            "spAttack": 70
+        }
+    },
+    {
+        "id": 142,
+        "name": "Aerodactyl",
+        "weight": 59,
+        "height": 1.8,
+        "url": "images/142-aerodactyl.png",
+        "type": [
+            "Rock",
+            "Flying"
+        ],
+        "ability": {
+            "hp": 80,
+            "attack": 105,
+            "defense": 65,
+            "speed": 130,
+            "spDefense": 60,
+            "spAttack": 75
+        }
+    },
+    {
+        "id": 143,
+        "name": "Snorlax",
+        "weight": 460,
+        "height": 2.1,
+        "url": "images/143-snorlax.png",
+        "type": [
+            "Normal"
+        ],
+        "ability": {
+            "hp": 160,
+            "attack": 110,
+            "defense": 65,
+            "speed": 30,
+            "spDefense": 65,
+            "spAttack": 110
+        }
+    },
+    {
+        "id": 144,
+        "name": "Articuno",
+        "weight": 55.4,
+        "height": 1.7,
+        "url": "images/144-articuno.png",
+        "type": [
+            "Ice",
+            "Flying"
+        ],
+        "ability": {
+            "hp": 90,
+            "attack": 85,
+            "defense": 100,
+            "speed": 85,
+            "spDefense": 95,
+            "spAttack": 125
+        }
+    },
+    {
+        "id": 145,
+        "name": "Zapdos",
+        "weight": 52.6,
+        "height": 1.6,
+        "url": "images/145-zapdos.png",
+        "type": [
+            "Electric",
+            "Flying"
+        ],
+        "ability": {
+            "hp": 90,
+            "attack": 90,
+            "defense": 85,
+            "speed": 100,
+            "spDefense": 125,
+            "spAttack": 90
+        }
+    },
+    {
+        "id": 146,
+        "name": "Moltres",
+        "weight": 60,
+        "height": 2,
+        "url": "images/146-moltres.png",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "ability": {
+            "hp": 90,
+            "attack": 100,
+            "defense": 90,
+            "speed": 90,
+            "spDefense": 125,
+            "spAttack": 85
+        }
+    },
+    {
+        "id": 147,
+        "name": "Dratini",
+        "weight": 3.3,
+        "height": 1.8,
+        "url": "images/147-dratini.png",
+        "type": [
+            "Dragon"
+        ],
+        "ability": {
+            "hp": 41,
+            "attack": 64,
+            "defense": 45,
+            "speed": 50,
+            "spDefense": 50,
+            "spAttack": 50
+        }
+    },
+    {
+        "id": 148,
+        "name": "Dragonair",
+        "weight": 16.5,
+        "height": 4,
+        "url": "images/148-dragonair.png",
+        "type": [
+            "Dragon"
+        ],
+        "ability": {
+            "hp": 61,
+            "attack": 84,
+            "defense": 65,
+            "speed": 70,
+            "spDefense": 70,
+            "spAttack": 70
+        }
+    },
+    {
+        "id": 149,
+        "name": "Dragonite",
+        "weight": 210,
+        "height": 2.2,
+        "url": "images/149-dragonite.png",
+        "type": [
+            "Dragon",
+            "Flying"
+        ],
+        "ability": {
+            "hp": 91,
+            "attack": 134,
+            "defense": 95,
+            "speed": 80,
+            "spDefense": 100,
+            "spAttack": 100
+        }
+    },
+    {
+        "id": 150,
+        "name": "Mewtwo",
+        "weight": 122,
+        "height": 2,
+        "url": "images/150-mewtwo.png",
+        "type": [
+            "Psychic"
+        ],
+        "ability": {
+            "hp": 106,
+            "attack": 110,
+            "defense": 90,
+            "speed": 130,
+            "spDefense": 154,
+            "spAttack": 90
+        }
+    },
+    {
+        "id": 151,
+        "name": "Mew",
+        "weight": 4,
+        "height": 0.4,
+        "url": "images/150-mewtwo.png",
+        "type": [
+            "Psychic"
+        ],
+        "ability": {
+            "hp": 100,
+            "attack": 100,
+            "defense": 100,
+            "speed": 100,
+            "spDefense": 100,
+            "spAttack": 100
+        }
+    }
+]
